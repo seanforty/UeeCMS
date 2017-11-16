@@ -7,7 +7,7 @@ return [
         "dbhost"=>"localhost",
         "dbuser"=>"root",
         "dbpwd"=>"root",
-        "dbname"=>"mes",
+        "dbname"=>"ueecms",
         "prefix"=>"uee_"
     ],
 
